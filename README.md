@@ -1,2 +1,2 @@
-# fashion
+# GITPRACTICAL
 FirstProj2811
